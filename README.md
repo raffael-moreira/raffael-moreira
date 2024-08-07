@@ -4,7 +4,7 @@
 - 📖 Atualmente expandindo meus conhecimentos em linguagens de programação, processamento de dados e plataforma Git.
 
 ### Main Languages
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   </div>
   
