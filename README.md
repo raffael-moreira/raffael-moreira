@@ -4,8 +4,8 @@
 - 🎓 **Mestrando em Biotecnologia** no Instituto de Biociências da UNESP - Botucatu  
 - 💡 Interesse em **simulação Monte Carlo, análise de dados e física médica**  
 
-### 🖥️ **Experiência Acadêmica**  
-- 🏆 **TCC:** *"Análise de distribuição de dose em microplacas de titulação para culturas de carcinoma escamoso bucal: uma simulação Monte Carlo utilizando TOPAS"*  
+### 📖 **Experiência Acadêmica**  
+- 📖 **TCC:** *"Análise de distribuição de dose em microplacas de titulação para culturas de carcinoma escamoso bucal: uma simulação Monte Carlo utilizando TOPAS"*  
 - 🔬 **Pesquisa Atual:** *"Hipóxia induzida por cobalto como estratégia biomimética para o desenvolvimento de biomateriais avançados."*  
 
 ### 📌 **Linguagens de programação**  
